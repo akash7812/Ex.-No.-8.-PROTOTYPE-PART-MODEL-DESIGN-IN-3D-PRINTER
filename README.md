@@ -47,6 +47,11 @@
 
 ## Output:
 ![Screenshot 2024-04-22 183014](https://github.com/akash7812/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/146819826/0bb28d5a-2018-4d33-8eca-0d5d69e82368)
+![3](https://github.com/akash7812/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/146819826/ec540c5b-1706-4f21-ba34-65a3073153a9)
+![4](https://github.com/akash7812/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/146819826/90e91004-4c18-4470-ace4-4ed2f972306d)
+![2](https://github.com/akash7812/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/146819826/acd3279a-e81b-4194-8927-cad8b96dea34)
+
+
 
 
 ### Name:AKASH KUMAR M.
